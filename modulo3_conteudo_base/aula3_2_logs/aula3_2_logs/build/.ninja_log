@@ -2029,3 +2029,13 @@
 474	2233	7079728290070982	esp-idf/esp32/ld/esp32.project.ld	f2a306ea0be61a37
 2233	2889	7079728296659612	aula3_2_logs.elf	e3d5f931f7263fe
 2890	3134	7079728299287966	.bin_timestamp	bf4a9ca6212549f8
+8	9219	7081140142398269	build.ninja	5902448e94d1f5db
+46	134	7079717989595138	bootloader-prefix/src/bootloader-stamp/bootloader-build	d9eca460bd8ca9c1
+46	134	7079717989595138	bootloader/bootloader.elf	d9eca460bd8ca9c1
+46	134	7079717989595138	bootloader/bootloader.bin	d9eca460bd8ca9c1
+46	134	7079717989595138	bootloader/bootloader.map	d9eca460bd8ca9c1
+50	327	7081140146487353	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj	9e9f9fb979ff6b42
+327	384	7081140147195460	esp-idf/app_update/libapp_update.a	58e1d88313b20b83
+384	2590	7081140169077993	esp-idf/esp32/ld/esp32.project.ld	f2a306ea0be61a37
+2590	3335	7081140176525810	aula3_2_logs.elf	e3d5f931f7263fe
+3335	3556	7081140178908494	.bin_timestamp	bf4a9ca6212549f8

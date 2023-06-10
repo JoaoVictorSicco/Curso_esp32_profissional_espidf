@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/CMakeFiles/bootloader
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/CMakeFiles/bootloader.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/CMakeFiles/bootloader-complete.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/git_repositorio/Curso_esp32_profissional_espidf/modulo4_utilizando_freertos/aula4-2-trabalhando-com-tasks/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
